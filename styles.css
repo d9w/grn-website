@@ -3,7 +3,7 @@ body {
     padding-top: 4.5rem;
     background-color: #FFFFFF;
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
-    color: #556268;
+    color: #000000;
 }
 
 p {
@@ -25,28 +25,8 @@ li {
   margin-right: auto;
 }
 
-hr {
-  border-color: #A5B8C9;
-}
-
-a:link {
-  color: #A5B8C9;
-}
-
-a:visited {
-  color: #A5B8C9;
-}
-
-a:hover {
-  color: #FFBA00;
-}
-
-p a {
+a {
   font-weight: bold;
 }
 
-h1 {color: #000000; text-align: center;}
-h2 {color: #FF9900; text-align: center;}
-h3 {color: #A5B8C9;}
-h4 {color: #5D8BA2;}
-h5 {color: #556268;}
+h1 {text-align: center;}
